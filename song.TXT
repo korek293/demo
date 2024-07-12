@@ -4,3 +4,5 @@ dodalem line
 jeszcze one
 
 first change in new branch feature
+
+second change in new branch
